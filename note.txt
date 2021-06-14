@@ -1,0 +1,13 @@
+# Một số lệnh sử dụng với terminal
+- cd: lệnh di chuyển cấp thư mục. Ex: cd Desktop, ....
+- ls: liệt kê tất cả file và thư mục có trong thư mục hiện tại. Ex: ls khi đang ở Desktop
+
+
+# Các câu lệnh của git
+- git clone https://github.com/quanlam123m/demo-git.git
+=> tải source code từ github về máy tính
+
+- git status => kiểm tra trạng thái của các file có sự thay đổi
+
+- git add file-name => xác nhận các file-name vào vùng staging
+- git add. => xác nhận tất cả các file vừa thêm mới hoặc thay đổi vào vùng staging

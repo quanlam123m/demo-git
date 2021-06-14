@@ -17,3 +17,6 @@
 
 - git checkout -b "branch name" => tạo branch mới từ branch hiện tại (tự động chuyển sang branch mới)
 - git checkout "name" => chuyển từ branch hiện tại sang branch mới
+
+- git branch => liệt kê tất cả các branch đang có
+- git pull => kiểm tra data trên github để kéo về local

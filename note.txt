@@ -19,4 +19,14 @@
 - git checkout "name" => chuyển từ branch hiện tại sang branch mới
 
 - git branch => liệt kê tất cả các branch đang có
-- git pull => kiểm tra data trên github để kéo về local
+- git pull => kiểm tra data trên remote để kéo về local
+
+#Cách xung đột code khi merge brach vào master 
+B1: checkout master => chuyển về branch master
+B2: git pull => đồng bộ code ở local và remote
+B3: git checkout lại branch đang xử lý
+B4: git merge master => Hợp nhất những commit mới nhất của master vào branchđang xử lý
+B5: fix conflict trên VS code
+B6: Add, commit và push branch đang xử lý lên remote
+
+

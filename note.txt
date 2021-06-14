@@ -14,3 +14,6 @@
 
 - git commid -m"message" => đưa toàn bộ nội dung có trong vùng staging vào local với 1 đoạn log
 - git push => đưa toàn bộ dữ liệu trong local lên github
+
+- git checkout -b "branch name" => tạo branch mới từ branch hiện tại (tự động chuyển sang branch mới)
+- git checkout "name" => chuyển từ branch hiện tại sang branch mới

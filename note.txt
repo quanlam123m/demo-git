@@ -11,3 +11,5 @@
 
 - git add file-name => xác nhận các file-name vào vùng staging
 - git add. => xác nhận tất cả các file vừa thêm mới hoặc thay đổi vào vùng staging
+
+- git commid -m"message" => đưa toàn bộ nội dung có trong vùng staging vào Github với 1 đoạn log
